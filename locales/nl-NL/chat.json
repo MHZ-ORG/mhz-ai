@@ -6,6 +6,12 @@
   "agentDefaultMessageWithSystemRole": "Hallo, ik ben **{{name}}**, {{systemRole}}, laten we beginnen met praten!",
   "agentDefaultMessageWithoutEdit": "Hallo, ik ben **{{name}}**. Laten we beginnen met een gesprek!",
   "agentsAndConversations": "agenten en gesprekken",
+  "artifact": {
+    "generating": "Genereren",
+    "thinking": "Denken",
+    "thought": "Denken proces",
+    "unknownTitle": "Onbenoemd werk"
+  },
   "backToBottom": "Terug naar onderen",
   "chatList": {
     "longMessageDetail": "Bekijk details"
@@ -43,7 +49,7 @@
     "all": "Alle inhoud",
     "allFiles": "Alle bestanden",
     "allKnowledgeBases": "Alle kennisbanken",
-    "disabled": "De huidige implementatiemodus ondersteunt geen kennisbankgesprekken. Schakel over naar serverdatabase-implementatie of gebruik de LobeChat Cloud-service om dit te gebruiken.",
+    "disabled": "De huidige implementatiemodus ondersteunt geen kennisbankgesprekken. Als je dit wilt gebruiken, schakel dan over naar serverdatabase-implementatie of gebruik de {{cloud}}-dienst.",
     "library": {
       "action": {
         "add": "Toevoegen",

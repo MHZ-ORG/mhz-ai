@@ -6,6 +6,12 @@
   "agentDefaultMessageWithSystemRole": "Hello, I'm **{{name}}**, {{systemRole}}. Let's start chatting!",
   "agentDefaultMessageWithoutEdit": "Hello, I'm **{{name}}**, let's start chatting!",
   "agentsAndConversations": "Assistants and Conversations",
+  "artifact": {
+    "generating": "Generating",
+    "thinking": "Thinking",
+    "thought": "Thought Process",
+    "unknownTitle": "Untitled Work"
+  },
   "backToBottom": "Back to bottom",
   "chatList": {
     "longMessageDetail": "View Details"
@@ -43,7 +49,7 @@
     "all": "All Content",
     "allFiles": "All Files",
     "allKnowledgeBases": "All Knowledge Bases",
-    "disabled": "The current deployment mode does not support knowledge base conversations. To use this feature, please switch to server database deployment or use LobeChat Cloud service.",
+    "disabled": "The current deployment mode does not support knowledge base conversations. To use this feature, please switch to server-side database deployment or use the {{cloud}} service.",
     "library": {
       "action": {
         "add": "Add",

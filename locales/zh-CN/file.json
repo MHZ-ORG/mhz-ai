@@ -21,6 +21,7 @@
       "embeddingStatus": "向量化"
     }
   },
+  "empty": "暂无已上传文件/文件夹",
   "header": {
     "actions": {
       "newFolder": "新建文件夹",
@@ -37,6 +38,7 @@
     "new": "新建知识库",
     "title": "知识库"
   },
+  "networkError": "获取知识库失败，请检测网络连接后重试",
   "notSupportGuide": {
     "desc": "MHZ AI暂不支持此功能，尽请期待",
     "features": {
