@@ -245,7 +245,7 @@ LobeChat 的插件生态系统是其核心功能的重要扩展，它极大地�
 | [Savvy Trader AI](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **savvytrader** on **2024-06-27**</sup> | 实时股票、加密货币和其他投资数据。<br/>`股票` `分析`                                                               |
 | [Search1API](https://chat-preview.lobehub.com/settings/agent)<br/><sup>By **fatwang2** on **2024-05-06**</sup>         | 搜索聚合服务，专为 LLMs 设计<br/>`web` `search`                                                                    |
 
-> 📊 Total plugins: [<kbd>**50**</kbd>](https://github.com/lobehub/lobe-chat-plugins)
+> 📊 Total plugins: [<kbd>**49**</kbd>](https://github.com/lobehub/lobe-chat-plugins)
 
  <!-- PLUGIN LIST -->
 
@@ -273,14 +273,14 @@ LobeChat 的插件生态系统是其核心功能的重要扩展，它极大地�
 
 <!-- AGENT LIST -->
 
-| 最近新增                                                                                                                                                                 | 助手说明                                                                                                                        |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
-| [健身 AI 教练](https://chat-preview.lobehub.com/market?agent=ai-trainer)<br/><sup>By **[andreasvikke](https://github.com/andreasvikke)** on **2024-09-19**</sup>         | 专注于个性化计划、肌肉目标、姿势指导、进度跟踪、激励和虚拟现实训练的 AI 锻炼助手。<br/>`锻炼助手` `健身` `运动` `训练` `营养`   |
-| [Alfred](https://chat-preview.lobehub.com/market?agent=alfred)<br/><sup>By **[Bern3rsH](https://github.com/Bern3rsH)** on **2024-09-19**</sup>                           | 一位全能的管家。<br/>`生活` `个人`                                                                                              |
-| [职业发展导师](https://chat-preview.lobehub.com/market?agent=career-development)<br/><sup>By **[daylight2022](https://github.com/daylight2022)** on **2024-09-19**</sup> | 专业的职业发展规划和创业咨询，通过深入了解用户情况提供切实可行的建议<br/>`职业咨询` `职业规划` `创业指导` `行业洞察` `技能提升` |
-| [词汇助手](https://chat-preview.lobehub.com/market?agent=english-words-helper)<br/><sup>By **[SpeedupMaster](https://github.com/SpeedupMaster)** on **2024-09-19**</sup> | 擅长英语单词释义及例句翻译助手<br/>`词汇助手` `英语` `翻译` `例句` `释义`                                                       |
+| 最近新增                                                                                                                                                                    | 助手说明                                                                                                                               |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| [生日邀请信息](https://chat-preview.lobehub.com/market?agent=birthday-invitation-message)<br/><sup>By **[tcmonster](https://github.com/tcmonster)** on **2024-09-29**</sup> | 专注于制作引人入胜和个性化的生日邀请信息，适应各种主题和语气。<br/>`信息构成` `个性化` `语气多样性` `活动细节整合` `互动方式`          |
+| [忌日信息](https://chat-preview.lobehub.com/market?agent=death-anniversary-message)<br/><sup>By **[tcmonster](https://github.com/tcmonster)** on **2024-09-29**</sup>       | 专注于以同情和共情的方式撰写敏感且发自内心的忌日信息。<br/>`慰问` `信息撰写` `悲伤支持` `文化意识` `情感敏感性`                        |
+| [Flux 提示生成器](https://chat-preview.lobehub.com/market?agent=flux-prompt-generator)<br/><sup>By **[tcmonster](https://github.com/tcmonster)** on **2024-09-29**</sup>    | Flux 提示生成助手：专注于为 Flux 模型生成高质量图像输出而创作详细、创意提示的专家。<br/>`提示生成` `图像生成` `艺术风格` `创意` `创作` |
+| [上帝保佑你的信息](https://chat-preview.lobehub.com/market?agent=god-bless-you-message)<br/><sup>By **[tcmonster](https://github.com/tcmonster)** on **2024-09-29**</sup>   | 擅长以灵性敏感和语言掌握来创作个性化的 “上帝保佑你” 信息。<br/>`信息创作` `个性化` `灵性敏感` `语言掌握` `互动方式`                    |
 
-> 📊 Total agents: [<kbd>**351**</kbd> ](https://github.com/lobehub/lobe-chat-agents)
+> 📊 Total agents: [<kbd>**403**</kbd> ](https://github.com/lobehub/lobe-chat-agents)
 
  <!-- AGENT LIST -->
 
